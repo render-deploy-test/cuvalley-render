@@ -1,0 +1,3 @@
+Zadanie nr 3 - próbka danych
+
+Przesłane próbki pochodzą ze stacji hydrologicznych i meteorologicznych w oddzielnych plikach odpowiednio hydro - sample.xlsx i meteo - sample. Pełne dane z większą ilością stacji zostaną przekazane na rozpoczęcie Hackathonu.

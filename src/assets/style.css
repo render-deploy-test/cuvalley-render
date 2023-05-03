@@ -1,0 +1,58 @@
+body {
+  background-color: #6c6e67;
+  margin: 5%;
+}
+.add_container {
+  border-radius: 40px;
+  background-color: white;
+  margin: 10px;
+  padding: 15px;
+  position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#title{
+  text-align: center;
+}
+.dropdown .VirtualizedSelectFocusedOption{
+  background-color: #e6ba39;
+  color: white;
+}
+.Select-placeholder {
+  color: black;
+}
+.Select-menu-outer {
+  background-color: #666663;
+}
+.dropdown{
+width:100%;
+textAlign: center;
+margin: auto;
+color:black;}
+
+.left-div {
+    position: absolute;
+    top: 2.5%;
+    align-items:left;
+    justify-content: left;
+    height: 5%;
+    width:90%;
+}
+.right-top-div{
+    position: absolute;
+    top: 2.5%;
+    right: 0;
+    height: 5%;
+    width: 20%
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  width: 101%;
+}
+
+
+
